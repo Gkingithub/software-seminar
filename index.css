@@ -1,0 +1,8 @@
+#header {
+    color:teal;
+    background-color: rgb(185, 148, 219);
+}
+/*styling for element with id*/
+.body{
+    color: blueviolet;
+}
